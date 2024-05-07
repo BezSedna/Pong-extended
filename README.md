@@ -1,4 +1,4 @@
-# Pong-extended-
+# Pong - extended
 extended version of 'Pong', made in Unity engine
 
 1) This is my first such developed game in Unity 
